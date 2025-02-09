@@ -12,4 +12,5 @@ actions:
 3. Review Current DACL Templates.
 4. Retrieve Current DACL Names.
 5. Retrieve All DACL contents and save to a CSV file.
+   
 ============================================================
