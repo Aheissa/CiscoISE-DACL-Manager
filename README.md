@@ -13,3 +13,4 @@ actions:
 5. Retrieve All DACL contents and save to a CSV file.
    
 ============================================================
+![image](https://github.com/user-attachments/assets/b1d838b9-7624-4784-8fe5-59646f6c30a5)
