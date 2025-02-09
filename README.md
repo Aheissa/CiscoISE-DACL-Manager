@@ -1,8 +1,7 @@
 # CiscoISE-DACL-Manager
 
 ============================================================
-                DACL Management Script
-============================================================
+
 This script allows you to manage Downloadable Access Control 
 Lists (DACLs) on Cisco ISE.You can perform the following 
 actions:
