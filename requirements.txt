@@ -1,0 +1,11 @@
+# Python version
+python==3.10
+
+# Required packages
+requests==2.26.0
+prettytable==2.4.0
+urllib3==1.26.7
+
+# Installation Instructions
+# To install the required packages, run the following command:
+# pip install -r requirements.txt
